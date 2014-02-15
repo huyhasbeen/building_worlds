@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 7a78f55c842234c85ac0396708e990f7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: backhub1
+    100002: backnurbsCube1
+    100004: backwheel_group1
+    100006: bar_cap
+    100008: bar_cap1
+    100010: bike_chain5:bike_chain_rig
+    100012: bike_chain5:chain_geometry
+    100014: bike_chain5:ikHandle1
+    100016: bike_chain5:joint1
+    100018: bike_chain5:joint10
+    100020: bike_chain5:joint11
+    100022: bike_chain5:joint12
+    100024: bike_chain5:joint13
+    100026: bike_chain5:joint14
+    100028: bike_chain5:joint15
+    100030: bike_chain5:joint16
+    100032: bike_chain5:joint17
+    100034: bike_chain5:joint18
+    100036: bike_chain5:joint19
+    100038: bike_chain5:joint2
+    100040: bike_chain5:joint20
+    100042: bike_chain5:joint21
+    100044: bike_chain5:joint22
+    100046: bike_chain5:joint23
+    100048: bike_chain5:joint24
+    100050: bike_chain5:joint25
+    100052: bike_chain5:joint26
+    100054: bike_chain5:joint27
+    100056: bike_chain5:joint28
+    100058: bike_chain5:joint29
+    100060: bike_chain5:joint3
+    100062: bike_chain5:joint30
+    100064: bike_chain5:joint31
+    100066: bike_chain5:joint32
+    100068: bike_chain5:joint33
+    100070: bike_chain5:joint34
+    100072: bike_chain5:joint35
+    100074: bike_chain5:joint36
+    100076: bike_chain5:joint37
+    100078: bike_chain5:joint38
+    100080: bike_chain5:joint39
+    100082: bike_chain5:joint4
+    100084: bike_chain5:joint40
+    100086: bike_chain5:joint5
+    100088: bike_chain5:joint6
+    100090: bike_chain5:joint7
+    100092: bike_chain5:joint8
+    100094: bike_chain5:joint9
+    100096: bike_chain5:nurbsCircle1
+    100098: bike_chain5:polySurface10
+    100100: bike_chain5:polySurface11
+    100102: bike_chain5:polySurface12
+    100104: bike_chain5:polySurface13
+    100106: bike_chain5:polySurface14
+    100108: bike_chain5:polySurface15
+    100110: bike_chain5:polySurface16
+    100112: bike_chain5:polySurface17
+    100114: bike_chain5:polySurface18
+    100116: bike_chain5:polySurface19
+    100118: bike_chain5:polySurface2
+    100120: bike_chain5:polySurface20
+    100122: bike_chain5:polySurface21
+    100124: bike_chain5:polySurface22
+    100126: bike_chain5:polySurface23
+    100128: bike_chain5:polySurface24
+    100130: bike_chain5:polySurface25
+    100132: bike_chain5:polySurface26
+    100134: bike_chain5:polySurface27
+    100136: bike_chain5:polySurface28
+    100138: bike_chain5:polySurface29
+    100140: bike_chain5:polySurface3
+    100142: bike_chain5:polySurface30
+    100144: bike_chain5:polySurface31
+    100146: bike_chain5:polySurface32
+    100148: bike_chain5:polySurface33
+    100150: bike_chain5:polySurface34
+    100152: bike_chain5:polySurface35
+    100154: bike_chain5:polySurface36
+    100156: bike_chain5:polySurface37
+    100158: bike_chain5:polySurface38
+    100160: bike_chain5:polySurface39
+    100162: bike_chain5:polySurface4
+    100164: bike_chain5:polySurface40
+    100166: bike_chain5:polySurface41
+    100168: bike_chain5:polySurface5
+    100170: bike_chain5:polySurface6
+    100172: bike_chain5:polySurface7
+    100174: bike_chain5:polySurface8
+    100176: bike_chain5:polySurface9
+    100178: bottom_bracket
+    100180: bottomCap2
+    100182: bottomCap2 1
+    100184: bottomCap2 10
+    100186: bottomCap2 11
+    100188: bottomCap2 12
+    100190: bottomCap2 13
+    100192: bottomCap2 14
+    100194: bottomCap2 15
+    100196: bottomCap2 16
+    100198: bottomCap2 17
+    100200: bottomCap2 18
+    100202: bottomCap2 19
+    100204: bottomCap2 2
+    100206: bottomCap2 20
+    100208: bottomCap2 21
+    100210: bottomCap2 22
+    100212: bottomCap2 23
+    100214: bottomCap2 24
+    100216: bottomCap2 25
+    100218: bottomCap2 26
+    100220: bottomCap2 27
+    100222: bottomCap2 28
+    100224: bottomCap2 29
+    100226: bottomCap2 3
+    100228: bottomCap2 30
+    100230: bottomCap2 31
+    100232: bottomCap2 32
+    100234: bottomCap2 33
+    100236: bottomCap2 34
+    100238: bottomCap2 35
+    100240: bottomCap2 36
+    100242: bottomCap2 37
+    100244: bottomCap2 38
+    100246: bottomCap2 39
+    100248: bottomCap2 4
+    100250: bottomCap2 40
+    100252: bottomCap2 41
+    100254: bottomCap2 42
+    100256: bottomCap2 43
+    100258: bottomCap2 44
+    100260: bottomCap2 45
+    100262: bottomCap2 46
+    100264: bottomCap2 47
+    100266: bottomCap2 5
+    100268: bottomCap2 6
+    100270: bottomCap2 7
+    100272: bottomCap2 8
+    100274: bottomCap2 9
+    100276: bottomnurbsCube1
+    100278: brake_holder
+    100280: chainring1:polySurface22
+    100282: cog
+    100284: crank
+    100286: crank10
+    100288: crank2
+    100290: crank4
+    100292: crank5
+    100294: crank7
+    100296: crank8
+    100298: crank_group
+    100300: cranks
+    100302: curve1
+    100304: fork
+    100306: fork_curves
+    100308: frame
+    100310: frame1
+    100312: front_spoke_group
+    100314: front_spoke_group 1
+    100316: frontnurbsCube1
+    100318: frontwheel_group
+    100320: group10
+    100322: group11
+    100324: group12
+    100326: group13
+    100328: group5
+    100330: group5 1
+    100332: group5 2
+    100334: group5 3
+    100336: group6
+    100338: group7
+    100340: group8
+    100342: group9
+    100344: handlebars1
+    100346: headset
+    100348: headset 1
+    100350: headset1
+    100352: headset1 1
+    100354: headset2
+    100356: headset3
+    100358: headset4
+    100360: headsetgroup
+    100362: headsetgroup1
+    100364: hub
+    100366: hub 1
+    100368: //RootNode
+    100370: huy_nguyen_bicycle:bottom_bracket
+    100372: huy_nguyen_bicycle:bottomCap4
+    100374: huy_nguyen_bicycle:bottomCap4 1
+    100376: huy_nguyen_bicycle:bottomCap6
+    100378: huy_nguyen_bicycle:bottomCap7
+    100380: huy_nguyen_bicycle:crank
+    100382: huy_nguyen_bicycle:crank 1
+    100384: huy_nguyen_bicycle:crank1
+    100386: huy_nguyen_bicycle:crank2
+    100388: huy_nguyen_bicycle:crank4
+    100390: huy_nguyen_bicycle:crank_group
+    100392: huy_nguyen_bicycle:curve1
+    100394: huy_nguyen_bicycle:curve4
+    100396: huy_nguyen_bicycle:extrudedSurface1
+    100398: huy_nguyen_bicycle:extrudedSurface2
+    100400: huy_nguyen_bicycle:extrudedSurface5
+    100402: huy_nguyen_bicycle:extrudedSurface6
+    100404: huy_nguyen_bicycle:extrudedSurface7
+    100406: huy_nguyen_bicycle:fork
+    100408: huy_nguyen_bicycle:fork1
+    100410: huy_nguyen_bicycle:frame_back
+    100412: huy_nguyen_bicycle:frame_bottom_tube
+    100414: huy_nguyen_bicycle:frame_front
+    100416: huy_nguyen_bicycle:frame_top_tube
+    100418: huy_nguyen_bicycle:group5
+    100420: huy_nguyen_bicycle:handlebars:extrudedSurface3
+    100422: huy_nguyen_bicycle:imagePlane1
+    100424: huy_nguyen_bicycle:imagePlane2
+    100426: huy_nguyen_bicycle:imagePlane3
+    100428: huy_nguyen_bicycle:nurbsCircle1
+    100430: huy_nguyen_bicycle:nurbsCircle2
+    100432: huy_nguyen_bicycle:seat_post_group
+    100434: huy_nguyen_bicycle:seatpost
+    100436: huy_nguyen_bicycle:steering_column
+    100438: huy_nguyen_bicycle:topCap4
+    100440: huy_nguyen_bicycle:topCap5
+    100442: image_planes
+    100444: joint4
+    100446: left
+    100448: leftnurbsCube1
+    100450: nurbsCylinder100
+    100452: nurbsCylinder100 1
+    100454: nurbsCylinder101
+    100456: nurbsCylinder101 1
+    100458: nurbsCylinder102
+    100460: nurbsCylinder102 1
+    100462: nurbsCylinder103
+    100464: nurbsCylinder103 1
+    100466: nurbsCylinder104
+    100468: nurbsCylinder104 1
+    100470: nurbsCylinder105
+    100472: nurbsCylinder105 1
+    100474: nurbsCylinder106
+    100476: nurbsCylinder106 1
+    100478: nurbsCylinder107
+    100480: nurbsCylinder107 1
+    100482: nurbsCylinder84
+    100484: nurbsCylinder84 1
+    100486: nurbsCylinder85
+    100488: nurbsCylinder85 1
+    100490: nurbsCylinder86
+    100492: nurbsCylinder86 1
+    100494: nurbsCylinder87
+    100496: nurbsCylinder87 1
+    100498: nurbsCylinder88
+    100500: nurbsCylinder88 1
+    100502: nurbsCylinder89
+    100504: nurbsCylinder89 1
+    100506: nurbsCylinder90
+    100508: nurbsCylinder90 1
+    100510: nurbsCylinder91
+    100512: nurbsCylinder91 1
+    100514: nurbsCylinder92
+    100516: nurbsCylinder92 1
+    100518: nurbsCylinder93
+    100520: nurbsCylinder93 1
+    100522: nurbsCylinder94
+    100524: nurbsCylinder94 1
+    100526: nurbsCylinder95
+    100528: nurbsCylinder95 1
+    100530: nurbsCylinder96
+    100532: nurbsCylinder96 1
+    100534: nurbsCylinder97
+    100536: nurbsCylinder97 1
+    100538: nurbsCylinder98
+    100540: nurbsCylinder98 1
+    100542: nurbsCylinder99
+    100544: nurbsCylinder99 1
+    100546: nurbsSphere1
+    100548: nurbsSquare1
+    100550: NUTANDBOLT1
+    100552: NUTANDBOLT1 1
+    100554: NUTANDBOLT2
+    100556: NUTANDBOLT2 1
+    100558: pCube1
+    100560: pCube2
+    100562: pCube3
+    100564: pCube7
+    100566: pCube8
+    100568: pCube9
+    100570: pCylinder2
+    100572: pCylinder4
+    100574: pCylinder4 1
+    100576: pCylinder4 2
+    100578: pCylinder4 3
+    100580: pCylinder5
+    100582: pCylinder5 1
+    100584: pCylinder5 2
+    100586: pCylinder5 3
+    100588: pCylinder6
+    100590: pedal
+    100592: persp1
+    100594: pointLight1
+    100596: polySurface1
+    100598: polySurface3
+    100600: rear_reartubes
+    100602: rear_tube_curves
+    100604: rightnurbsCube1
+    100606: seat
+    100608: seat_group
+    100610: seatpost
+    100612: steering_column
+    100614: topCap2
+    100616: topCap2 1
+    100618: topCap2 10
+    100620: topCap2 11
+    100622: topCap2 12
+    100624: topCap2 13
+    100626: topCap2 14
+    100628: topCap2 15
+    100630: topCap2 16
+    100632: topCap2 17
+    100634: topCap2 18
+    100636: topCap2 19
+    100638: topCap2 2
+    100640: topCap2 20
+    100642: topCap2 21
+    100644: topCap2 22
+    100646: topCap2 23
+    100648: topCap2 24
+    100650: topCap2 25
+    100652: topCap2 26
+    100654: topCap2 27
+    100656: topCap2 28
+    100658: topCap2 29
+    100660: topCap2 3
+    100662: topCap2 30
+    100664: topCap2 31
+    100666: topCap2 32
+    100668: topCap2 33
+    100670: topCap2 34
+    100672: topCap2 35
+    100674: topCap2 36
+    100676: topCap2 37
+    100678: topCap2 38
+    100680: topCap2 39
+    100682: topCap2 4
+    100684: topCap2 40
+    100686: topCap2 41
+    100688: topCap2 42
+    100690: topCap2 43
+    100692: topCap2 44
+    100694: topCap2 45
+    100696: topCap2 46
+    100698: topCap2 47
+    100700: topCap2 5
+    100702: topCap2 6
+    100704: topCap2 7
+    100706: topCap2 8
+    100708: topCap2 9
+    100710: topnurbsCube1
+    100712: wheel
+    100714: wheel 1
+    100716: wheel1
+    100718: wheel1 1
+    400000: backhub1
+    400002: backnurbsCube1
+    400004: backwheel_group1
+    400006: bar_cap
+    400008: bar_cap1
+    400010: bike_chain5:bike_chain_rig
+    400012: bike_chain5:chain_geometry
+    400014: bike_chain5:ikHandle1
+    400016: bike_chain5:joint1
+    400018: bike_chain5:joint10
+    400020: bike_chain5:joint11
+    400022: bike_chain5:joint12
+    400024: bike_chain5:joint13
+    400026: bike_chain5:joint14
+    400028: bike_chain5:joint15
+    400030: bike_chain5:joint16
+    400032: bike_chain5:joint17
+    400034: bike_chain5:joint18
+    400036: bike_chain5:joint19
+    400038: bike_chain5:joint2
+    400040: bike_chain5:joint20
+    400042: bike_chain5:joint21
+    400044: bike_chain5:joint22
+    400046: bike_chain5:joint23
+    400048: bike_chain5:joint24
+    400050: bike_chain5:joint25
+    400052: bike_chain5:joint26
+    400054: bike_chain5:joint27
+    400056: bike_chain5:joint28
+    400058: bike_chain5:joint29
+    400060: bike_chain5:joint3
+    400062: bike_chain5:joint30
+    400064: bike_chain5:joint31
+    400066: bike_chain5:joint32
+    400068: bike_chain5:joint33
+    400070: bike_chain5:joint34
+    400072: bike_chain5:joint35
+    400074: bike_chain5:joint36
+    400076: bike_chain5:joint37
+    400078: bike_chain5:joint38
+    400080: bike_chain5:joint39
+    400082: bike_chain5:joint4
+    400084: bike_chain5:joint40
+    400086: bike_chain5:joint5
+    400088: bike_chain5:joint6
+    400090: bike_chain5:joint7
+    400092: bike_chain5:joint8
+    400094: bike_chain5:joint9
+    400096: bike_chain5:nurbsCircle1
+    400098: bike_chain5:polySurface10
+    400100: bike_chain5:polySurface11
+    400102: bike_chain5:polySurface12
+    400104: bike_chain5:polySurface13
+    400106: bike_chain5:polySurface14
+    400108: bike_chain5:polySurface15
+    400110: bike_chain5:polySurface16
+    400112: bike_chain5:polySurface17
+    400114: bike_chain5:polySurface18
+    400116: bike_chain5:polySurface19
+    400118: bike_chain5:polySurface2
+    400120: bike_chain5:polySurface20
+    400122: bike_chain5:polySurface21
+    400124: bike_chain5:polySurface22
+    400126: bike_chain5:polySurface23
+    400128: bike_chain5:polySurface24
+    400130: bike_chain5:polySurface25
+    400132: bike_chain5:polySurface26
+    400134: bike_chain5:polySurface27
+    400136: bike_chain5:polySurface28
+    400138: bike_chain5:polySurface29
+    400140: bike_chain5:polySurface3
+    400142: bike_chain5:polySurface30
+    400144: bike_chain5:polySurface31
+    400146: bike_chain5:polySurface32
+    400148: bike_chain5:polySurface33
+    400150: bike_chain5:polySurface34
+    400152: bike_chain5:polySurface35
+    400154: bike_chain5:polySurface36
+    400156: bike_chain5:polySurface37
+    400158: bike_chain5:polySurface38
+    400160: bike_chain5:polySurface39
+    400162: bike_chain5:polySurface4
+    400164: bike_chain5:polySurface40
+    400166: bike_chain5:polySurface41
+    400168: bike_chain5:polySurface5
+    400170: bike_chain5:polySurface6
+    400172: bike_chain5:polySurface7
+    400174: bike_chain5:polySurface8
+    400176: bike_chain5:polySurface9
+    400178: bottom_bracket
+    400180: bottomCap2
+    400182: bottomCap2 1
+    400184: bottomCap2 10
+    400186: bottomCap2 11
+    400188: bottomCap2 12
+    400190: bottomCap2 13
+    400192: bottomCap2 14
+    400194: bottomCap2 15
+    400196: bottomCap2 16
+    400198: bottomCap2 17
+    400200: bottomCap2 18
+    400202: bottomCap2 19
+    400204: bottomCap2 2
+    400206: bottomCap2 20
+    400208: bottomCap2 21
+    400210: bottomCap2 22
+    400212: bottomCap2 23
+    400214: bottomCap2 24
+    400216: bottomCap2 25
+    400218: bottomCap2 26
+    400220: bottomCap2 27
+    400222: bottomCap2 28
+    400224: bottomCap2 29
+    400226: bottomCap2 3
+    400228: bottomCap2 30
+    400230: bottomCap2 31
+    400232: bottomCap2 32
+    400234: bottomCap2 33
+    400236: bottomCap2 34
+    400238: bottomCap2 35
+    400240: bottomCap2 36
+    400242: bottomCap2 37
+    400244: bottomCap2 38
+    400246: bottomCap2 39
+    400248: bottomCap2 4
+    400250: bottomCap2 40
+    400252: bottomCap2 41
+    400254: bottomCap2 42
+    400256: bottomCap2 43
+    400258: bottomCap2 44
+    400260: bottomCap2 45
+    400262: bottomCap2 46
+    400264: bottomCap2 47
+    400266: bottomCap2 5
+    400268: bottomCap2 6
+    400270: bottomCap2 7
+    400272: bottomCap2 8
+    400274: bottomCap2 9
+    400276: bottomnurbsCube1
+    400278: brake_holder
+    400280: chainring1:polySurface22
+    400282: cog
+    400284: crank
+    400286: crank10
+    400288: crank2
+    400290: crank4
+    400292: crank5
+    400294: crank7
+    400296: crank8
+    400298: crank_group
+    400300: cranks
+    400302: curve1
+    400304: fork
+    400306: fork_curves
+    400308: frame
+    400310: frame1
+    400312: front_spoke_group
+    400314: front_spoke_group 1
+    400316: frontnurbsCube1
+    400318: frontwheel_group
+    400320: group10
+    400322: group11
+    400324: group12
+    400326: group13
+    400328: group5
+    400330: group5 1
+    400332: group5 2
+    400334: group5 3
+    400336: group6
+    400338: group7
+    400340: group8
+    400342: group9
+    400344: handlebars1
+    400346: headset
+    400348: headset 1
+    400350: headset1
+    400352: headset1 1
+    400354: headset2
+    400356: headset3
+    400358: headset4
+    400360: headsetgroup
+    400362: headsetgroup1
+    400364: hub
+    400366: hub 1
+    400368: //RootNode
+    400370: huy_nguyen_bicycle:bottom_bracket
+    400372: huy_nguyen_bicycle:bottomCap4
+    400374: huy_nguyen_bicycle:bottomCap4 1
+    400376: huy_nguyen_bicycle:bottomCap6
+    400378: huy_nguyen_bicycle:bottomCap7
+    400380: huy_nguyen_bicycle:crank
+    400382: huy_nguyen_bicycle:crank 1
+    400384: huy_nguyen_bicycle:crank1
+    400386: huy_nguyen_bicycle:crank2
+    400388: huy_nguyen_bicycle:crank4
+    400390: huy_nguyen_bicycle:crank_group
+    400392: huy_nguyen_bicycle:curve1
+    400394: huy_nguyen_bicycle:curve4
+    400396: huy_nguyen_bicycle:extrudedSurface1
+    400398: huy_nguyen_bicycle:extrudedSurface2
+    400400: huy_nguyen_bicycle:extrudedSurface5
+    400402: huy_nguyen_bicycle:extrudedSurface6
+    400404: huy_nguyen_bicycle:extrudedSurface7
+    400406: huy_nguyen_bicycle:fork
+    400408: huy_nguyen_bicycle:fork1
+    400410: huy_nguyen_bicycle:frame_back
+    400412: huy_nguyen_bicycle:frame_bottom_tube
+    400414: huy_nguyen_bicycle:frame_front
+    400416: huy_nguyen_bicycle:frame_top_tube
+    400418: huy_nguyen_bicycle:group5
+    400420: huy_nguyen_bicycle:handlebars:extrudedSurface3
+    400422: huy_nguyen_bicycle:imagePlane1
+    400424: huy_nguyen_bicycle:imagePlane2
+    400426: huy_nguyen_bicycle:imagePlane3
+    400428: huy_nguyen_bicycle:nurbsCircle1
+    400430: huy_nguyen_bicycle:nurbsCircle2
+    400432: huy_nguyen_bicycle:seat_post_group
+    400434: huy_nguyen_bicycle:seatpost
+    400436: huy_nguyen_bicycle:steering_column
+    400438: huy_nguyen_bicycle:topCap4
+    400440: huy_nguyen_bicycle:topCap5
+    400442: image_planes
+    400444: joint4
+    400446: left
+    400448: leftnurbsCube1
+    400450: nurbsCylinder100
+    400452: nurbsCylinder100 1
+    400454: nurbsCylinder101
+    400456: nurbsCylinder101 1
+    400458: nurbsCylinder102
+    400460: nurbsCylinder102 1
+    400462: nurbsCylinder103
+    400464: nurbsCylinder103 1
+    400466: nurbsCylinder104
+    400468: nurbsCylinder104 1
+    400470: nurbsCylinder105
+    400472: nurbsCylinder105 1
+    400474: nurbsCylinder106
+    400476: nurbsCylinder106 1
+    400478: nurbsCylinder107
+    400480: nurbsCylinder107 1
+    400482: nurbsCylinder84
+    400484: nurbsCylinder84 1
+    400486: nurbsCylinder85
+    400488: nurbsCylinder85 1
+    400490: nurbsCylinder86
+    400492: nurbsCylinder86 1
+    400494: nurbsCylinder87
+    400496: nurbsCylinder87 1
+    400498: nurbsCylinder88
+    400500: nurbsCylinder88 1
+    400502: nurbsCylinder89
+    400504: nurbsCylinder89 1
+    400506: nurbsCylinder90
+    400508: nurbsCylinder90 1
+    400510: nurbsCylinder91
+    400512: nurbsCylinder91 1
+    400514: nurbsCylinder92
+    400516: nurbsCylinder92 1
+    400518: nurbsCylinder93
+    400520: nurbsCylinder93 1
+    400522: nurbsCylinder94
+    400524: nurbsCylinder94 1
+    400526: nurbsCylinder95
+    400528: nurbsCylinder95 1
+    400530: nurbsCylinder96
+    400532: nurbsCylinder96 1
+    400534: nurbsCylinder97
+    400536: nurbsCylinder97 1
+    400538: nurbsCylinder98
+    400540: nurbsCylinder98 1
+    400542: nurbsCylinder99
+    400544: nurbsCylinder99 1
+    400546: nurbsSphere1
+    400548: nurbsSquare1
+    400550: NUTANDBOLT1
+    400552: NUTANDBOLT1 1
+    400554: NUTANDBOLT2
+    400556: NUTANDBOLT2 1
+    400558: pCube1
+    400560: pCube2
+    400562: pCube3
+    400564: pCube7
+    400566: pCube8
+    400568: pCube9
+    400570: pCylinder2
+    400572: pCylinder4
+    400574: pCylinder4 1
+    400576: pCylinder4 2
+    400578: pCylinder4 3
+    400580: pCylinder5
+    400582: pCylinder5 1
+    400584: pCylinder5 2
+    400586: pCylinder5 3
+    400588: pCylinder6
+    400590: pedal
+    400592: persp1
+    400594: pointLight1
+    400596: polySurface1
+    400598: polySurface3
+    400600: rear_reartubes
+    400602: rear_tube_curves
+    400604: rightnurbsCube1
+    400606: seat
+    400608: seat_group
+    400610: seatpost
+    400612: steering_column
+    400614: topCap2
+    400616: topCap2 1
+    400618: topCap2 10
+    400620: topCap2 11
+    400622: topCap2 12
+    400624: topCap2 13
+    400626: topCap2 14
+    400628: topCap2 15
+    400630: topCap2 16
+    400632: topCap2 17
+    400634: topCap2 18
+    400636: topCap2 19
+    400638: topCap2 2
+    400640: topCap2 20
+    400642: topCap2 21
+    400644: topCap2 22
+    400646: topCap2 23
+    400648: topCap2 24
+    400650: topCap2 25
+    400652: topCap2 26
+    400654: topCap2 27
+    400656: topCap2 28
+    400658: topCap2 29
+    400660: topCap2 3
+    400662: topCap2 30
+    400664: topCap2 31
+    400666: topCap2 32
+    400668: topCap2 33
+    400670: topCap2 34
+    400672: topCap2 35
+    400674: topCap2 36
+    400676: topCap2 37
+    400678: topCap2 38
+    400680: topCap2 39
+    400682: topCap2 4
+    400684: topCap2 40
+    400686: topCap2 41
+    400688: topCap2 42
+    400690: topCap2 43
+    400692: topCap2 44
+    400694: topCap2 45
+    400696: topCap2 46
+    400698: topCap2 47
+    400700: topCap2 5
+    400702: topCap2 6
+    400704: topCap2 7
+    400706: topCap2 8
+    400708: topCap2 9
+    400710: topnurbsCube1
+    400712: wheel
+    400714: wheel 1
+    400716: wheel1
+    400718: wheel1 1
+    2300000: bottom_bracket
+    2300002: chainring1:polySurface22
+    2300004: cog
+    2300006: crank
+    2300008: crank10
+    2300010: crank2
+    2300012: crank4
+    2300014: crank5
+    2300016: crank7
+    2300018: crank8
+    2300020: huy_nguyen_bicycle:crank
+    2300022: huy_nguyen_bicycle:crank 1
+    2300024: huy_nguyen_bicycle:crank1
+    2300026: huy_nguyen_bicycle:crank2
+    2300028: huy_nguyen_bicycle:crank4
+    2300030: pCube1
+    2300032: pCube2
+    2300034: pCube3
+    2300036: pCube7
+    2300038: pCube8
+    2300040: pCube9
+    2300042: pCylinder2
+    2300044: pCylinder4
+    2300046: pCylinder4 1
+    2300048: pCylinder4 2
+    2300050: pCylinder4 3
+    2300052: pCylinder5
+    2300054: pCylinder5 1
+    2300056: pCylinder5 2
+    2300058: pCylinder5 3
+    2300060: pCylinder6
+    2300062: polySurface1
+    2300064: polySurface3
+    3300000: bottom_bracket
+    3300002: chainring1:polySurface22
+    3300004: cog
+    3300006: crank
+    3300008: crank10
+    3300010: crank2
+    3300012: crank4
+    3300014: crank5
+    3300016: crank7
+    3300018: crank8
+    3300020: huy_nguyen_bicycle:crank
+    3300022: huy_nguyen_bicycle:crank 1
+    3300024: huy_nguyen_bicycle:crank1
+    3300026: huy_nguyen_bicycle:crank2
+    3300028: huy_nguyen_bicycle:crank4
+    3300030: pCube1
+    3300032: pCube2
+    3300034: pCube3
+    3300036: pCube7
+    3300038: pCube8
+    3300040: pCube9
+    3300042: pCylinder2
+    3300044: pCylinder4
+    3300046: pCylinder4 1
+    3300048: pCylinder4 2
+    3300050: pCylinder4 3
+    3300052: pCylinder5
+    3300054: pCylinder5 1
+    3300056: pCylinder5 2
+    3300058: pCylinder5 3
+    3300060: pCylinder6
+    3300062: polySurface1
+    3300064: polySurface3
+    4300000: pCylinder4
+    4300002: pCylinder5
+    4300004: pCylinder4
+    4300006: pCylinder5
+    4300008: crank2
+    4300010: crank4
+    4300012: crank5
+    4300014: huy_nguyen_bicycle:crank4
+    4300016: huy_nguyen_bicycle:crank
+    4300018: crank
+    4300020: pCylinder2
+    4300022: polySurface1
+    4300024: pCube2
+    4300026: pCube3
+    4300028: pCube1
+    4300030: pCylinder6
+    4300032: polySurface3
+    4300034: pCube7
+    4300036: pCube8
+    4300038: pCube9
+    4300040: chainring1:polySurface22
+    4300042: pCylinder4
+    4300044: pCylinder5
+    4300046: pCylinder4
+    4300048: pCylinder5
+    4300050: cog
+    4300052: huy_nguyen_bicycle:crank1
+    4300054: huy_nguyen_bicycle:crank2
+    4300056: huy_nguyen_bicycle:crank
+    4300058: bottom_bracket
+    4300060: crank10
+    4300062: crank8
+    4300064: crank7
+    4300066: bike_chain5:polySurface2
+    4300068: bike_chain5:polySurface3
+    4300070: bike_chain5:polySurface4
+    4300072: bike_chain5:polySurface5
+    4300074: bike_chain5:polySurface6
+    4300076: bike_chain5:polySurface7
+    4300078: bike_chain5:polySurface8
+    4300080: bike_chain5:polySurface9
+    4300082: bike_chain5:polySurface10
+    4300084: bike_chain5:polySurface11
+    4300086: bike_chain5:polySurface12
+    4300088: bike_chain5:polySurface13
+    4300090: bike_chain5:polySurface14
+    4300092: bike_chain5:polySurface15
+    4300094: bike_chain5:polySurface16
+    4300096: bike_chain5:polySurface17
+    4300098: bike_chain5:polySurface18
+    4300100: bike_chain5:polySurface19
+    4300102: bike_chain5:polySurface20
+    4300104: bike_chain5:polySurface21
+    4300106: bike_chain5:polySurface22
+    4300108: bike_chain5:polySurface23
+    4300110: bike_chain5:polySurface24
+    4300112: bike_chain5:polySurface25
+    4300114: bike_chain5:polySurface26
+    4300116: bike_chain5:polySurface27
+    4300118: bike_chain5:polySurface28
+    4300120: bike_chain5:polySurface29
+    4300122: bike_chain5:polySurface30
+    4300124: bike_chain5:polySurface31
+    4300126: bike_chain5:polySurface32
+    4300128: bike_chain5:polySurface33
+    4300130: bike_chain5:polySurface34
+    4300132: bike_chain5:polySurface35
+    4300134: bike_chain5:polySurface36
+    4300136: bike_chain5:polySurface37
+    4300138: bike_chain5:polySurface38
+    4300140: bike_chain5:polySurface39
+    4300142: bike_chain5:polySurface40
+    4300144: bike_chain5:polySurface41
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: bike_chain5:polySurface10
+    13700002: bike_chain5:polySurface11
+    13700004: bike_chain5:polySurface12
+    13700006: bike_chain5:polySurface13
+    13700008: bike_chain5:polySurface14
+    13700010: bike_chain5:polySurface15
+    13700012: bike_chain5:polySurface16
+    13700014: bike_chain5:polySurface17
+    13700016: bike_chain5:polySurface18
+    13700018: bike_chain5:polySurface19
+    13700020: bike_chain5:polySurface2
+    13700022: bike_chain5:polySurface20
+    13700024: bike_chain5:polySurface21
+    13700026: bike_chain5:polySurface22
+    13700028: bike_chain5:polySurface23
+    13700030: bike_chain5:polySurface24
+    13700032: bike_chain5:polySurface25
+    13700034: bike_chain5:polySurface26
+    13700036: bike_chain5:polySurface27
+    13700038: bike_chain5:polySurface28
+    13700040: bike_chain5:polySurface29
+    13700042: bike_chain5:polySurface3
+    13700044: bike_chain5:polySurface30
+    13700046: bike_chain5:polySurface31
+    13700048: bike_chain5:polySurface32
+    13700050: bike_chain5:polySurface33
+    13700052: bike_chain5:polySurface34
+    13700054: bike_chain5:polySurface35
+    13700056: bike_chain5:polySurface36
+    13700058: bike_chain5:polySurface37
+    13700060: bike_chain5:polySurface38
+    13700062: bike_chain5:polySurface39
+    13700064: bike_chain5:polySurface4
+    13700066: bike_chain5:polySurface40
+    13700068: bike_chain5:polySurface41
+    13700070: bike_chain5:polySurface5
+    13700072: bike_chain5:polySurface6
+    13700074: bike_chain5:polySurface7
+    13700076: bike_chain5:polySurface8
+    13700078: bike_chain5:polySurface9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
