@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../skate_game/project4/Assets/scripts/scene_change.cs">
+    <Files>
+      <File FileName="../../skate_game/project4/Assets/scripts/physics_test.cs" Line="20" Column="64" />
+      <File FileName="../../skate_game/project4/Assets/scripts/scene_change.cs" Line="14" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
