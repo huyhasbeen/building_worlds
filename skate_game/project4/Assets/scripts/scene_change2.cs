@@ -11,8 +11,8 @@ public class scene_change2 : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		
-		if (Time.time > 70f) {
-			Application.LoadLevel ( "skatepark1" ); //scene name
+		if (Time.time > 90f) {
+			Application.LoadLevel ( "maze" ); //scene name
 			//			Application.LoadLevel ( 1 ); //build number
 		}
 		
