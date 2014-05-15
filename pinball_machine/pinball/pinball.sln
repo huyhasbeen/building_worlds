@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1EB2853B-9D58-71C3-9F12-3A5F4EB0C404}") = "pinball", "Assembly-CSharp.csproj", "{F994898C-AD5A-7872-79F4-80705B0C75EB}"
+EndProject
+Project("{1EB2853B-9D58-71C3-9F12-3A5F4EB0C404}") = "pinball", "Assembly-UnityScript.unityproj", "{8BDDFB84-7218-FC8C-5626-CB2017E9A187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F994898C-AD5A-7872-79F4-80705B0C75EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F994898C-AD5A-7872-79F4-80705B0C75EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F994898C-AD5A-7872-79F4-80705B0C75EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F994898C-AD5A-7872-79F4-80705B0C75EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BDDFB84-7218-FC8C-5626-CB2017E9A187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDDFB84-7218-FC8C-5626-CB2017E9A187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDDFB84-7218-FC8C-5626-CB2017E9A187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDDFB84-7218-FC8C-5626-CB2017E9A187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																														GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

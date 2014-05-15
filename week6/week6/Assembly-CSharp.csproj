@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\fish.cs" />
+     <Compile Include="Assets\scripts\fish_animate.cs" />
      <Compile Include="Assets\scripts\fishgod.cs" />
      <Compile Include="Assets\scripts\raycast_demo.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
